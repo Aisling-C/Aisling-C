@@ -1,4 +1,4 @@
-Hi, I’m @Aisling-C. Thanks for checking out my repo.
+Hi, I’m Aisling. Thanks for checking out my repo.
 
 I've just completed a 6 month datascience bootcamp offered through Springboard. I'm excited for the world of possibilities that data science will open in my career !
 
