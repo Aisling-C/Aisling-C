@@ -11,7 +11,7 @@ As part of the course, I completed two indepdendent capstone projects under the 
 
 
 
-Additionally, I'm proud to contibute to the Data Driven Streets DC project, which aims to make DC streets safer for all through data driven advocacy. 
+Additionally, I'm proud to contibute to the Data Driven Streets DC project, which aims to make DC streets safer for all through data driven advocacy. Check [this article](https://www.bloomberg.com/news/articles/2021-07-15/how-many-traffic-crashes-are-going-unreported) in Bloomberg about some of our work.  
 
 <!---
 Aisling-C/Aisling-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
