@@ -3,7 +3,7 @@ Hi, I’m Aisling. Thanks for checking out my github page.
 I've just completed a 6 month datascience bootcamp offered through Springboard and am excited to see where data science leads me in my career !
 
 
-As part of the course, I completed two indepdendent capstone projects under the tutelage of an industry mentor. You can see these capstone projects in the DataScienceWork repo.  These projects used machine learning to:
+As part of the course, I completed two indepdendent capstone projects while getting feedback along the way from a mentor in industry. You can see these capstone projects in the DataScienceWork repo.  These projects used machine learning to:
 
 * Predict if an ICU patient would develop sepsis or not 
 
