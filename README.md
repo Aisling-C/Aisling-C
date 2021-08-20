@@ -1,6 +1,8 @@
+August 2021
+
 Hi, I’m Aisling. Thanks for checking out my github page.
 
-I've just completed a 6 month datascience bootcamp offered through Springboard and am excited to see where data science leads me in my career !
+I've just completed a 7-month month datascience bootcamp offered through Springboard and am excited to see where data science leads me in my career !
 
 
 As part of the course, I completed two indepdendent capstone projects while getting feedback along the way from a mentor in industry. You can see these capstone projects in the DataScienceWork repo.  These projects used machine learning to:
